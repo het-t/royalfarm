@@ -14,6 +14,8 @@ export default function MainContainer() {
         
         <MissionSection />
 
-        <Footer />
+        <div className="pad-md">
+            <Footer />
+        </div>
     </>
 }

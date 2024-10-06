@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/royalfarm/static/css/main.e6508314.css",
+    "main.js": "/royalfarm/static/js/main.1d4cddab.js",
+    "static/js/453.c8dc277b.chunk.js": "/royalfarm/static/js/453.c8dc277b.chunk.js",
+    "index.html": "/royalfarm/index.html",
+    "main.e6508314.css.map": "/royalfarm/static/css/main.e6508314.css.map",
+    "main.1d4cddab.js.map": "/royalfarm/static/js/main.1d4cddab.js.map",
+    "453.c8dc277b.chunk.js.map": "/royalfarm/static/js/453.c8dc277b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6508314.css",
+    "static/js/main.1d4cddab.js"
+  ]
+}
